@@ -1,0 +1,21 @@
+# Smart Task Management AI Agent
+# No external dependencies required! 
+# This project uses only Python standard library to demonstrate
+# that you can build sophisticated AI agents with minimal dependencies.
+
+# Python 3.7+ is required for:
+# - dataclasses (Python 3.7+)
+# - typing hints
+# - datetime functionality
+# - json serialization
+# - regular expressions
+
+# Optional dependencies for future extensions:
+# fastapi>=0.104.0          # For web API
+# uvicorn>=0.24.0           # ASGI server
+# pydantic>=2.5.0           # Data validation
+# sqlalchemy>=2.0.0         # Database ORM
+# python-multipart>=0.0.6   # File upload support
+# pytest>=7.4.0             # Testing framework
+# black>=23.0.0              # Code formatting
+# flake8>=6.0.0              # Code linting
